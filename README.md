@@ -5,4 +5,7 @@ Jogo criado em HTML, CSS e JavaScript que visa o acerto de um <strong>número al
 
 Caso erre três vezes, o programa retornará informando que o <strong>jogo terminou</strong>, haja vista que o <strong>número de tentativas é 3.</strong>
 
+![image](https://user-images.githubusercontent.com/100444673/189431619-ffda1ac4-a2e3-4a5d-a558-c355c8bcbb7f.png)
+
+
 Veja como ficou o projeto clicando no [link](https://hudsonretonde.github.io/Mentalista/)
